@@ -1,0 +1,8 @@
+prefix=/home/mamort/image_transport_ws/devel
+
+Name: image_transport_tutorial
+Description: Description of image_transport_tutorial
+Version: 0.0.0
+Cflags: -I/home/mamort/image_transport_ws/devel/include
+Libs: -L/home/mamort/image_transport_ws/devel/lib 
+Requires: 
